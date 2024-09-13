@@ -103,8 +103,6 @@ function mostrarDetalles() {
     `;
 }
 //Pregunta 5
-
-
 function filterEvenNumbers(numbers) {
     return numbers.filter(function(number) {
         return number % 2 === 0;
